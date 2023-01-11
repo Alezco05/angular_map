@@ -14,7 +14,7 @@
   "dependencies": {
     "ejs-mate": "^3.0.0",
     "express": "^4.17.1",
-    "knex": "^0.20.9",
+    "knex": "^2.4.0",
     "mysql": "^2.18.1",
     "socket.io": "^2.3.0"
   },
